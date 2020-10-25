@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "colsample_bytree": 0.4, "max_depth": 20, "objective": "multi:softprob", "num_class": 2, "eval_metric": "mlogloss", "n_estimators": 10, "alpha": 0.05, "gamma": 0.05}
