@@ -1,0 +1,24 @@
+{
+    "os": "Darwin-18.7.0-x86_64-i386-64bit",
+    "python": "3.6.9",
+    "heartbeatAt": "2020-10-25T23:58:17.880220",
+    "startedAt": "2020-10-25T23:58:16.024014",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/maxdauber/Library/Jupyter/runtime/kernel-e28e5d46-9d66-4bd4-b564-997ffe4dfcad.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/MaxDauber/DSLab-Kaggle.git",
+        "commit": "758da1c4cb2ea481db5626b0a71b27223aaf51f3"
+    },
+    "email": "max@dauberfamily.com",
+    "root": "/Users/maxdauber/Documents/School/Senior_Sem_1/Data_Science_Lab/DSLab-Kaggle",
+    "host": "Dauber_MBP",
+    "username": "maxdauber",
+    "executable": "/Users/maxdauber/.pyenv/versions/3.6.9/envs/dslab-kaggle/bin/python3.6"
+}

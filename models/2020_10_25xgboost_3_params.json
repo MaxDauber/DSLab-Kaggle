@@ -1,1 +1,1 @@
-{"learning_rate": 0.01, "colsample_bytree": 0.4, "max_depth": 15, "num_class": 2, "eval_metric": "mlogloss", "n_estimators": 500, "alpha": 0, "gamma": 0.01}
+{"learning_rate": 0.01, "colsample_bytree": 0.4, "max_depth": 15, "num_class": 2, "eval_metric": "mlogloss", "n_estimators": 500, "alpha": 0.1, "gamma": 0.01}
